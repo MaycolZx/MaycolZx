@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)<br>
-![Ubuntu](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=101010)<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-3DDC84?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=101010)<br>
 
 <!--
 **MaycolZx/MaycolZx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
-![C++](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)<br>
-![Python](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)<br>
-!["GNU Bash"](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo="GNU Bash"&logoColor=white&labelColor=101010)<br>
-![HTML5](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)<br>
-![CSS3](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)<br>
-![JavaScript](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)<br>
+![C](https://img.shields.io/badge/C-3DDC84?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
+![C++](https://img.shields.io/badge/C++-3DDC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)<br>
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)<br>
+![GNU Bash](https://img.shields.io/badge/GNU BASH-3DDC84?style=for-the-badge&logo="GNU Bash"&logoColor=white&labelColor=101010)<br>
+![HTML5](https://img.shields.io/badge/HTML5-3DDC84?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)<br>
+![CSS3](https://img.shields.io/badge/CSS3-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)<br>
