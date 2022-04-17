@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ![C](https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
-![C++](https://img.shields.io/badge/C++-3498DB?style=for-the-badge&logo='C++'&logoColor=white&labelColor=101010)<br>
+![C++](https://img.shields.io/badge/C++-3498DB?style=for-the-badge&logo="C++"&logoColor=white&labelColor=101010)<br>
 ![Python](https://img.shields.io/badge/Python-F1C40F?style=for-the-badge&logo=Python&logoColor=white&labelColor=3498DB)<br>
 ![GNUBash](https://img.shields.io/badge/GNUBash-3DDC84?style=for-the-badge&logo=GNUBash&logoColor=white&labelColor=101010)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-3DDC84?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)<br>
-![CSS3](https://img.shields.io/badge/CSS3-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)<br>
+![CSS3](https://img.shields.io/badge/CSS3-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=F39C12)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)<br>
