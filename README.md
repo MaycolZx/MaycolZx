@@ -1,6 +1,6 @@
 ### Hi there 👋 
-![Linux](https://img.shields.io/badge/Linux-843DDC?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)<br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-843DDC?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=101010)<br>
+![Linux](https://img.shields.io/badge/Linux-212F3C?style=for-the-badge&logo=Linux&logoColor=white&labelColor=843DDC)<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-212F3C?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=843DDC)<br>
 
 ***
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ***
 ![Python](https://img.shields.io/badge/Python-212F3C?style=for-the-badge&logo=Python&logoColor=white&labelColor=212F3C)<br>
 ***
-![GNUBash](https://img.shields.io/badge/GNUBash-808B96?style=for-the-badge&logo=GNUBash&logoColor=white&labelColor=101010)<br>
+![GNUBash](https://img.shields.io/badge/GNUBash-808B96?style=for-the-badge&logo=GNUBash&logoColor=white&labelColor=212F3C)<br>
 ***
-![HTML5](https://img.shields.io/badge/HTML5-3DDC84?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=FB8A2C)<br>
-![CSS3](https://img.shields.io/badge/CSS3-E74C3C?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=F39C12)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-E74C3C?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=FFF633)<br>
+![HTML5](https://img.shields.io/badge/HTML5-FB8A2C?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=212F3C)<br>
+![CSS3](https://img.shields.io/badge/CSS3-F39C12?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=212F3C)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF633?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=212F3C)<br>
