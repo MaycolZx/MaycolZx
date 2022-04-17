@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![Linux](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)<br>
+![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)<br>
 ![Ubuntu](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=101010)<br>
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
 ![C++](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)<br>
 ![Python](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)<br>
-![GNU Bash](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=GNU Bash&logoColor=white&labelColor=101010)<br>
+!["GNU Bash"](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo="GNU Bash"&logoColor=white&labelColor=101010)<br>
 ![HTML5](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)<br>
 ![CSS3](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)<br>
 ![JavaScript](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)<br>
