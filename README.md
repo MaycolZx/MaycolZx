@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)<br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&labelColor=101010)<br>
