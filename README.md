@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+!(logo=#A8B9CC)
 
 ![C](https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=C&logoColor=white&labelColor=212F3C)<br>
 ![C++](https://img.shields.io/badge/C++-3498DB?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=212F3C)<br>
