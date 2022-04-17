@@ -1,6 +1,6 @@
 ### Hi there 👋 
-![Linux](https://img.shields.io/badge/Linux-212F3C?style=for-the-badge&logo=Linux&logoColor=white&labelColor=843DDC)<br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-212F3C?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=843DDC)<br>
+![Linux](https://img.shields.io/badge/Linux-843DDC?style=for-the-badge&logo=Linux&logoColor=white&labelColor=212F3C)<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-843DDC?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=212F3C)<br>
 
 ***
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=C&logoColor=white&labelColor=212F3C)<br>
 ![C++](https://img.shields.io/badge/C++-3498DB?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=212F3C)<br>
 ***
-![Python](https://img.shields.io/badge/Python-212F3C?style=for-the-badge&logo=Python&logoColor=white&labelColor=212F3C)<br>
+![Python](https://img.shields.io/badge/Python-F1C40F?style=for-the-badge&logo=Python&logoColor=white&labelColor=212F3C)<br>
 ***
 ![GNUBash](https://img.shields.io/badge/GNUBash-808B96?style=for-the-badge&logo=GNUBash&logoColor=white&labelColor=212F3C)<br>
 ***
