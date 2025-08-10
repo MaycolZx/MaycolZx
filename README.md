@@ -1,6 +1,7 @@
 ### Hi there 👋 
-
-<img height="50" src="https://64.media.tumblr.com/d3181272d0b52ab49d16507d5394b6bf/8226a701e29c537c-96/s250x400/4fe2ba28e728ff22ad454aa2a9717ab6b7287f67.gifv"/>
+<p align="center">
+  <img height="100" src="https://64.media.tumblr.com/d3181272d0b52ab49d16507d5394b6bf/8226a701e29c537c-96/s250x400/4fe2ba28e728ff22ad454aa2a9717ab6b7287f67.gifv"/>
+</p>
 
 ![Linux](https://img.shields.io/badge/Linux-843DDC?style=for-the-badge&logo=Linux&logoColor=white&labelColor=212F3C)<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-843DDC?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=212F3C)<br>
